@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://img1.etsystatic.com/049/0/6851634/il_fullxfull.733803753_ght8.jpg");
+    background-size: 100% ;
+    background-attachment: fixed ;
+    color: white ;  
+}
+h2{
+    display: inline;
+}
+#start{
+    margin: 10px;
+}
+#divid{
+    margin-top: 155px;
+}
+.background-image {
+    position: fixed;
+    filter: blur(5px);
+}
